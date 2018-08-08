@@ -23,4 +23,8 @@ public class Calc {
 		return x + y;
 	}
 	
+	public double multiply(double w, double v, double s){
+		return w * v * s;
+	}
+	
 }
