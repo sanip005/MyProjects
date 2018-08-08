@@ -1,8 +1,8 @@
 
 public class Calc {
 
-	public int add(int x, int y) {
-		return x + y;
+	public int add(int d, int e) {
+		return d + e;
 	}
 	
 	public int subs(int x, int y){
@@ -16,4 +16,9 @@ public class Calc {
 	public int multiply(int x, int y) {
 		return x * y;
 	}
+	
+	public double add(double x, double y) {
+		return x + y;
+	}
+	
 }

@@ -10,9 +10,12 @@ public class Main {
 		
 		int c = cal.multiply(4, 5);
 		
+		double d = cal.add(5.0, 9.0);
+		
 		System.out.println("The result is "+ a);
 		System.out.println("The result is "+ b);
 		System.out.println("The result is "+ c);
+		System.out.println("The result is "+ d);
 	
 	}
 
