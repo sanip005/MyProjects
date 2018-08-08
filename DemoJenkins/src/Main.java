@@ -8,9 +8,11 @@ public class Main {
 		
 		int b = cal.subs(5, 4);
 		
+		int c = cal.multiply(4, 5);
+		
 		System.out.println("The result is "+ a);
 		System.out.println("The result is "+ b);
-		
+		System.out.println("The result is "+ c);
 	
 	}
 

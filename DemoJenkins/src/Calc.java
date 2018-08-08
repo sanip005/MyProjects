@@ -12,4 +12,8 @@ public class Calc {
 			return y - x;
 		}
 	}
+	
+	public int multiply(int x, int y) {
+		return x * y;
+	}
 }
